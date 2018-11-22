@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?> <VehicleAssets TransactionTimeStamp="2015-03-31T13:40:18Z" PageNumber="1" PageSize="10" EndOfFile="true" CreatedLanguage="EN"> <UserInfo CompanyID="CompanyID1" AuxID="AuxID1" /> <Vehicle> <Datum UDI="VEH_ID" Description="VehicleID" Value="123456" Units="" /> <Datum UDI="VEH_NUMBER" Description="Vehicle number" Value="VM_0123456_BD51SMR"
+Units="" /> <Datum UDI="VIN" Description="VIN" Value="1M8GDM9AXKP042788" Units="" />
+</Vehicle> <Vehicle> <Datum UDI="VEH_ID" Description="VehicleID" Value="2345678" Units="" /> <Datum UDI="VEH_NUMBER" Description="Vehicle number" Value="VM_2345678_BD52SMR"
+Units="" /> <Datum UDI="VIN" Description="VIN" Value="3HSDJAPR6GN100100" Units="" /> </Vehicle> </VehicleAssets>
