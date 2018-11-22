@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> <VehicleDataLocations TransactionTimeStamp="2018-04-24T14:46:43.291Z" CreatedLanguage="EN" PageNumber="1" PageSize="10" EndOfFile="false"> <DataLocations> <Datum Vehicle="339445" Lat="47.47" Lon="19.05" Speed="26" SpeedUOM="KPH" Heading="320" DataLocationTimestamp="2018-04-23T07:08:01.000Z" />
+<Datum Vehicle="339445" Lat="47.47" Lon="19.05" Speed="9" SpeedUOM="KPH" Heading="326" DataLocationTimestamp="2018-04-23T07:10:31.000Z" />
+<Datum Vehicle="339445" Lat="47.48" Lon="19.04" Speed="125" SpeedUOM="KPH" Heading="272" DataLocationTimestamp="2018-04-23T07:12:01.000Z" />
+<Datum Vehicle="339445" Lat="47.48" Lon="19.03" Speed="12" SpeedUOM="KPH" Heading="305" DataLocationTimestamp="2018-04-23T07:14:00.000Z" />
+<Datum Vehicle="339445" Lat="47.49" Lon="19.02" Speed="5" SpeedUOM="KPH" Heading="47" DataLocationTimestamp="2018-04-23T07:16:00.000Z" />
+<Datum Vehicle="338654" Lat="47.49" Lon="19.04" Speed="52" SpeedUOM="KPH" Heading="88" DataLocationTimestamp="2018-04-23T09:00:00.000Z" />
+<Datum Vehicle="338654" Lat="47.49" Lon="19.05" Speed="20" SpeedUOM="KPH" Heading="230" DataLocationTimestamp="2018-04-23T09:02:00.000Z" />
+<Datum Vehicle="338654" Lat="47.49" Lon="19.05" Speed="44" SpeedUOM="KPH" Heading="139" DataLocationTimestamp="2018-04-23T09:04:43.000Z" />
+<Datum Vehicle="338654" Lat="47.48" Lon="19.06" Speed="54" SpeedUOM="KPH" Heading="137" DataLocationTimestamp="2018-04-23T09:06:43.000Z" />
+<Datum Vehicle="338654" Lat="47.48" Lon="19.07" Speed="15" SpeedUOM="KPH" Heading="0" DataLocationTimestamp="2018-04-23T09:08:07.000Z" />
+</DataLocations>
+</VehicleDataLocations>
