@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<CustomerAccounts TransactionTimeStamp="2015-04-01T10:50:00Z" PageNumber="1" PageSize="1" EndOfFile="true" CreatedLanguage="EN"> <Customers> <Datum UDI="CID" Description="Customer ID" Value="00001" Units="CID" /> <Datum UDI="CUST_NAME" Description="Customer Name" Value="TEST CUSTOMER 1"
+Units="CUST_NAME" /> </Customers>
+</CustomerAccounts>
