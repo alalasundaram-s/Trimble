@@ -7,6 +7,11 @@
 <Datum Vehicle="338654" Lat="47.49" Lon="19.05" Speed="20" SpeedUOM="KPH" Heading="230" DataLocationTimestamp="2018-04-23T09:02:00.000Z" />
 <Datum Vehicle="338654" Lat="47.49" Lon="19.05" Speed="44" SpeedUOM="KPH" Heading="139" DataLocationTimestamp="2018-04-23T09:04:43.000Z" />
 <Datum Vehicle="338654" Lat="47.48" Lon="19.06" Speed="54" SpeedUOM="KPH" Heading="137" DataLocationTimestamp="2018-04-23T09:06:43.000Z" />
-<Datum Vehicle="338654" Lat="47.48" Lon="19.07" Speed="15" SpeedUOM="KPH" Heading="0" DataLocationTimestamp="2018-04-23T09:08:07.000Z" />
+<Datum Vehicle="338655" Lat="47.48" Lon="19.07" Speed="15" SpeedUOM="KPH" Heading="2" DataLocationTimestamp="2018-04-23T09:08:07.000Z" />
+<Datum Vehicle="338655" Lat="47.49" Lon="20.04" Speed="52" SpeedUOM="KPH" Heading="90" DataLocationTimestamp="2018-04-23T09:00:00.000Z" />
+<Datum Vehicle="338655" Lat="47.49" Lon="20.05" Speed="20" SpeedUOM="KPH" Heading="240" DataLocationTimestamp="2018-04-23T09:02:00.000Z" />
+<Datum Vehicle="338656" Lat="47.49" Lon="20.05" Speed="44" SpeedUOM="KPH" Heading="150" DataLocationTimestamp="2018-04-23T09:04:43.000Z" />
+<Datum Vehicle="338656" Lat="47.48" Lon="20.06" Speed="54" SpeedUOM="KPH" Heading="140" DataLocationTimestamp="2018-04-23T09:06:43.000Z" />
+<Datum Vehicle="338656" Lat="47.48" Lon="20.07" Speed="15" SpeedUOM="KPH" Heading="8" DataLocationTimestamp="2018-04-23T09:08:07.000Z" />
 </DataLocations>
 </VehicleDataLocations>
