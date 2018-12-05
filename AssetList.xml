@@ -5,5 +5,5 @@ Units="" /> <Datum UDI="VIN" Description="VIN" Value="3HSDJAPR6GN100100" Units="
   <Vehicle> <Datum UDI="VEH_ID" Description="VehicleID" Value="338655" Units="" /> <Datum UDI="VEH_NUMBER" Description="Vehicle number" Value="VM_2345678_BD52SMR"
 Units="" /> <Datum UDI="VIN" Description="VIN" Value="3HSDJAPR6GN10030" Units="" /> </Vehicle>
   <Vehicle> <Datum UDI="VEH_ID" Description="VehicleID" Value="338656" Units="" /> <Datum UDI="VEH_NUMBER" Description="Vehicle number" Value="VM_2345678_BD52SMR"
-Units="" /> <Datum UDI="VIN" Description="VIN" Value="3HSDJAPRH100188" Units="" /> </Vehicle></Vehicle> 
+Units="" /> <Datum UDI="VIN" Description="VIN" Value="3HSDJAPRH100188" Units="" /> </Vehicle>
 </VehicleAssets>
